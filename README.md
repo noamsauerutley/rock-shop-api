@@ -7,6 +7,11 @@
   Utilizing PostgreSQL for data storage, Rock Shop manages auth using JWT and BCrypt hashing.</p>
 </blockquote>
 
+<hr></hr>
+  <h3><a href="https://rock-shop-app.herokuapp.com/" >Check it out on Heroku!</a></h3>
+<hr></hr>
+
+
 <p><strong>Built With:</strong></p>
 
 <ul>
