@@ -4,7 +4,7 @@
 <blockquote>
 <p>Rock Shop is a e-commerce web app for rare rock sales. 
   <br>
-  Utilizing PostgreSQL for data storage, Rock Shop manages auth using JWT and BCrypt hashing.</p>
+  Utilizing PostgreSQL for data storage, Rock Shop manages auth using JWT and BCrypt password hashing.</p>
 </blockquote>
 
 <hr></hr>
