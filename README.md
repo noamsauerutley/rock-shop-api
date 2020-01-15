@@ -8,9 +8,6 @@
 </blockquote>
 
 <hr></hr>
-  <h3><a href="https://rock-shop-app.herokuapp.com/" >Check it out on Heroku!</a></h3>
-<hr></hr>
-
 
 <p><strong>Built With:</strong></p>
 
@@ -18,6 +15,22 @@
   <li>Ruby on Rails</li>
   <li>PostgreSQL</li>
 </ul>
+<hr>
+</hr>
+  <h3><a href="https://rock-shop-app.herokuapp.com/" >Check it out on Heroku!</a></h3>
+<hr></hr>
+  <div>
+  <p>View demo as <a href="https://i.imgur.com/fmhe992.gif">GIF on Imgur</a> or <a href="https://youtu.be/R62OYe9zGXo">video on Youtube</a></p>
+</div>  
+
+<div display="flex" flex-direction="row" flex-wrap="wrap" text-align="center" justify-content="space-around">
+    <img src="https://i.imgur.com/njfhdkT.png" alt="Rock Shop home page"/>
+    <img src="https://i.imgur.com/7soMOTQ.png" alt="Rock Shop detail page"/>
+    <img src="https://i.imgur.com/BwnqzD2.png" alt="Rock Shop cart view 1"/>
+    <img src="https://i.imgur.com/qBohR2p.png" alt="Rock Shop cart view 2"/>
+    <img src="https://i.imgur.com/j7Utd0p.png" alt="Rock Shop past orders"/>
+
+</div>
 
 <hr>
 </hr>
