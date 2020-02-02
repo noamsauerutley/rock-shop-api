@@ -6,6 +6,10 @@
   Utilizing PostgreSQL for data storage, Rock Shop manages auth using JWT and BCrypt password hashing.</p>
 
 <hr></hr>
+<p>
+See the Front-End <a href="https://github.com/noamsauerutley/rock-shop-front-end">here</a>.
+</p>
+<hr></hr>
 
 <p><strong>Built With:</strong></p>
 
