@@ -20,6 +20,9 @@ See the Front-End <a href="https://github.com/noamsauerutley/rock-shop-front-end
 <hr>
 </hr>
   <h3><a href="https://rock-shop-app.herokuapp.com/" >Check it out on Heroku!</a></h3>
+   <p> <b>Username:</b> <i>demo</i> <br>
+  <b>Password:</b> <i>samplepasswordforrockshop</i>
+  </p>
 <hr></hr>
   <div>
   <p>View demo as <a href="https://i.imgur.com/fmhe992.gif">GIF on Imgur</a> or <a href="https://youtu.be/R62OYe9zGXo">video on Youtube</a></p>
